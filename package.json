@@ -10,7 +10,7 @@
     "axios": "^0.19.0",
     "es6-promise": "^4.1.1",
     "qs": "^6.5.0",
-    "underscore": "^1.8.3",
+    "underscore": "1.8.3",
     "underscore.inflection": "https://github.com/TryKiddo/underscore.inflection.git",
     "underscore.string": "latest"
   },
